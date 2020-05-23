@@ -1,0 +1,2 @@
+[09-May-2020 22:47:59 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/victori2/public_html/ipx/application/views/Usuarios/Vusuarios.php on line 92
+[09-May-2020 22:48:25 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/victori2/public_html/ipx/application/views/Usuarios/Vusuarios.php on line 92
